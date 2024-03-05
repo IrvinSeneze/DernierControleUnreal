@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Maps/MainMap.umap",
+				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Blueprints/BP_Asteroids.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Blueprints/BP_Asteroids1.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Blueprints/BP_Small_Asteroid.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Blueprints/BP_Medium_Asteroid.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Blueprints/BP_Big_Asteroid.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Blueprints/BP_Large_Asteroid.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Blueprints/BP_Laser.uasset",
 				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Blueprints/BP_Spaceship.uasset",
 				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/HUD_Life.uasset",
 				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Maps/MainMap.umap"
