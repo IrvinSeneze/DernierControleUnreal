@@ -5,32 +5,28 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Resources/capsule.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Resources/mat_capsule_life.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Maps/MainMap.umap",
-				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Resources/TieInterceptor.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Resources/ScratchedMetal.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Resources/ScratchedMetalDark.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Resources/RedGlow.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Resources/ReflectiveGlass.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Resources/BlueEngineGlow.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Resources/TieWingMesh.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Blueprints/BP_Spaceship.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/System/PC_Spaceship.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/System/GM_Spaceship.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/System/Inputs/IMC_Spaceship.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/System/Inputs/INP_Move.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/System/Inputs/INP_Fire.uasset"
-=======
-				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/MenuMap.umap",
-				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/UI_Menu.uasset",
-				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/UI_GameOver.uasset",
 				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/System/GI_Vaisseau.uasset",
-				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/System/GI_Lapin.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/HUD_Life.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/HUD_Stamina.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/HUD_GameOver.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/UI_GameOver.uasset",
 				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/HUD_Menu.uasset",
-				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/UI_GameOver.uasset"
->>>>>>> f41309a (HUD menu + game over)
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/UI_Menu.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Maps/MainMap.umap",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/System/GI_Spaceship.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Blueprints/BP_Spaceship.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Resources/rock1.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Resources/rock2.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Resources/rock3.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Resources/rock4.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Resources/M_Rock.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Resources/M_Rock_003.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Resources/M_Rock_001.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Resources/M_Rock_002.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Blueprints/BP_Rock.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Blueprints/BP_Asteroids.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Blueprints/BP_Asteroids1.uasset"
 			]
 		}
 	]
