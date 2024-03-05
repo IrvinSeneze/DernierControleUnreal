@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Resources/capsule.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Resources/mat_capsule_life.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Maps/MainMap.umap",
@@ -21,6 +22,15 @@
 				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/System/Inputs/IMC_Spaceship.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/System/Inputs/INP_Move.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/System/Inputs/INP_Fire.uasset"
+=======
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/MenuMap.umap",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/UI_Menu.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/UI_GameOver.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/System/GI_Vaisseau.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/System/GI_Lapin.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/HUD_Menu.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/UI_GameOver.uasset"
+>>>>>>> f41309a (HUD menu + game over)
 			]
 		}
 	]
