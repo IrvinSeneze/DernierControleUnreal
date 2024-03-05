@@ -15,7 +15,11 @@
 				"C:/Users/senez/Documents/Unreal Projects/DernierControle/Content/Blueprints/BP_Laser.uasset",
 				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Blueprints/BP_Spaceship.uasset",
 				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/HUD_Life.uasset",
-				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Maps/MainMap.umap"
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Maps/MainMap.umap",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/Blueprints/BP_Asteroids1.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/HUD/HUD_GameOver.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/System/PC_Spaceship.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/DernierControleUnreal/Content/System/GI_Spaceship.uasset"
 			]
 		}
 	]
